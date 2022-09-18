@@ -1,0 +1,18 @@
+{
+    "language": "Indonesia",
+    "@language":{
+      "description": "bahasa saat ini"
+    },
+    "title": "ini judul",
+    "@title": {
+      "description": "perkenalan progarammer"
+    },
+    "subtitle": "ini anak judul",
+    "@subtitle": {
+      "description": "sambutan programmer"
+    },
+    "description": "ini deskripsi",
+    "@description": {
+      "description": "sebuah deskripsi"
+    }
+}

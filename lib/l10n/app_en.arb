@@ -1,0 +1,18 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "title": "this is title",
+    "@title": {
+      "description": "A welcome message"
+    },
+    "subtitle": "this is subtitle",
+    "@subtitle": {
+      "description": "A subtitle"
+    },
+    "description": "this is description",
+    "@title": {
+      "description": "A description"
+    }
+}
